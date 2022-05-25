@@ -177,7 +177,7 @@ class FreeplayState extends MusicBeatState
 
 		#if PRELOAD_ALL
 		var leText:String = "Press the C button to be able to change the controls.";
-		var size:Int = 18;
+		var size:Int = 16;
 		#end
 		var text:FlxText = new FlxText(textBG.x, textBG.y + 4, FlxG.width, leText, size);
 		text.setFormat(Paths.font("vcr.ttf"), size, FlxColor.WHITE, RIGHT);
