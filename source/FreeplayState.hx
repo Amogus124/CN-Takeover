@@ -284,7 +284,7 @@ class FreeplayState extends MusicBeatState
 
 		if(ctrl)
 		{
-			openSubState(new GameplayChangersSubstate());
+			MusicBeatState.switchState(new android.AndroidControlsMenu());
 		}
 		else if(space)
 		{
