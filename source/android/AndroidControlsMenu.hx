@@ -95,7 +95,7 @@ class AndroidControlsMenu extends MusicBeatState
 		rightPozition.borderSize = 2.4;
 		add(rightPozition);
 
-		var tipText:FlxText = new FlxText(10, FlxG.height - 24, 0, 'Press BACK to Go Back to Options Menu', 16);
+		var tipText:FlxText = new FlxText(10, FlxG.height - 24, 0, 'Press BACK to Go Back to Freeplay', 16);
 		tipText.setFormat(Paths.font("vcr.ttf"), 16, FlxColor.WHITE, LEFT, FlxTextBorderStyle.OUTLINE, FlxColor.BLACK);
 		tipText.borderSize = 2;
 		tipText.scrollFactor.set();
@@ -128,7 +128,7 @@ class AndroidControlsMenu extends MusicBeatState
 		if (FlxG.android.justReleased.BACK)
 		{
 			save();
-			MusicBeatState.switchState(new options.OptionsState());
+			MusicBeatState.switchState(new options.FreeplayState());
 		}
 		#end
 	}
