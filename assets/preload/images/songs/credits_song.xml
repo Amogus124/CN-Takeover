@@ -1,0 +1,181 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="credits song.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="MY BROTHER0000" x="0" y="0" width="153" height="131" frameX="-28" frameY="0" frameWidth="459" frameHeight="131"/>
+	<SubTexture name="MY BROTHER0001" x="153" y="0" width="223" height="131" frameX="0" frameY="0" frameWidth="459" frameHeight="131"/>
+	<SubTexture name="MY BROTHER0002" x="376" y="0" width="406" height="114" frameX="-38" frameY="-8" frameWidth="459" frameHeight="131"/>
+	<SubTexture name="MY BROTHER0003" x="782" y="0" width="409" height="114" frameX="-38" frameY="-8" frameWidth="459" frameHeight="131"/>
+	<SubTexture name="MY BROTHER0004" x="1191" y="0" width="408" height="73" frameX="-39" frameY="-27" frameWidth="459" frameHeight="131"/>
+	<SubTexture name="MY BROTHER0005" x="1599" y="0" width="412" height="73" frameX="-39" frameY="-27" frameWidth="459" frameHeight="131"/>
+	<SubTexture name="MY BROTHER0006" x="0" y="131" width="412" height="74" frameX="-39" frameY="-27" frameWidth="459" frameHeight="131"/>
+	<SubTexture name="MY BROTHER0007" x="0" y="131" width="412" height="74" frameX="-39" frameY="-27" frameWidth="459" frameHeight="131"/>
+	<SubTexture name="MY BROTHER0008" x="412" y="131" width="412" height="74" frameX="-39" frameY="-27" frameWidth="459" frameHeight="131"/>
+	<SubTexture name="MY BROTHER0009" x="412" y="131" width="412" height="74" frameX="-39" frameY="-27" frameWidth="459" frameHeight="131"/>
+	<SubTexture name="MY BROTHER0010" x="824" y="131" width="412" height="74" frameX="-39" frameY="-27" frameWidth="459" frameHeight="131"/>
+	<SubTexture name="MY BROTHER0011" x="824" y="131" width="412" height="74" frameX="-39" frameY="-27" frameWidth="459" frameHeight="131"/>
+	<SubTexture name="MY BROTHER0012" x="1236" y="131" width="412" height="74" frameX="-39" frameY="-27" frameWidth="459" frameHeight="131"/>
+	<SubTexture name="MY BROTHER0013" x="1236" y="131" width="412" height="74" frameX="-39" frameY="-27" frameWidth="459" frameHeight="131"/>
+	<SubTexture name="MY BROTHER0014" x="0" y="205" width="412" height="74" frameX="-39" frameY="-27" frameWidth="459" frameHeight="131"/>
+	<SubTexture name="MY BROTHER0015" x="0" y="205" width="412" height="74" frameX="-39" frameY="-27" frameWidth="459" frameHeight="131"/>
+	<SubTexture name="MY BROTHER0016" x="412" y="205" width="412" height="74" frameX="-39" frameY="-27" frameWidth="459" frameHeight="131"/>
+	<SubTexture name="MY BROTHER0017" x="412" y="205" width="412" height="74" frameX="-39" frameY="-27" frameWidth="459" frameHeight="131"/>
+	<SubTexture name="MY BROTHER0018" x="824" y="205" width="412" height="74" frameX="-39" frameY="-27" frameWidth="459" frameHeight="131"/>
+	<SubTexture name="MY BROTHER0019" x="824" y="205" width="412" height="74" frameX="-39" frameY="-27" frameWidth="459" frameHeight="131"/>
+	<SubTexture name="MY BROTHER0020" x="1236" y="205" width="412" height="74" frameX="-39" frameY="-27" frameWidth="459" frameHeight="131"/>
+	<SubTexture name="MY BROTHER0021" x="1236" y="205" width="412" height="74" frameX="-39" frameY="-27" frameWidth="459" frameHeight="131"/>
+	<SubTexture name="MY BROTHER0022" x="0" y="279" width="412" height="74" frameX="-39" frameY="-27" frameWidth="459" frameHeight="131"/>
+	<SubTexture name="MY BROTHER0023" x="0" y="279" width="412" height="74" frameX="-39" frameY="-27" frameWidth="459" frameHeight="131"/>
+	<SubTexture name="MY BROTHER0024" x="412" y="279" width="412" height="74" frameX="-39" frameY="-27" frameWidth="459" frameHeight="131"/>
+	<SubTexture name="MY BROTHER0025" x="412" y="279" width="412" height="74" frameX="-39" frameY="-27" frameWidth="459" frameHeight="131"/>
+	<SubTexture name="MY BROTHER0026" x="0" y="131" width="412" height="74" frameX="-39" frameY="-27" frameWidth="459" frameHeight="131"/>
+	<SubTexture name="MY BROTHER0027" x="0" y="131" width="412" height="74" frameX="-39" frameY="-27" frameWidth="459" frameHeight="131"/>
+	<SubTexture name="MY BROTHER0028" x="412" y="131" width="412" height="74" frameX="-39" frameY="-27" frameWidth="459" frameHeight="131"/>
+	<SubTexture name="MY BROTHER0029" x="412" y="131" width="412" height="74" frameX="-39" frameY="-27" frameWidth="459" frameHeight="131"/>
+	<SubTexture name="MY BROTHER0030" x="824" y="131" width="412" height="74" frameX="-39" frameY="-27" frameWidth="459" frameHeight="131"/>
+	<SubTexture name="MY BROTHER0031" x="824" y="131" width="412" height="74" frameX="-39" frameY="-27" frameWidth="459" frameHeight="131"/>
+	<SubTexture name="MY BROTHER0032" x="1236" y="131" width="412" height="74" frameX="-39" frameY="-27" frameWidth="459" frameHeight="131"/>
+	<SubTexture name="MY BROTHER0033" x="1236" y="131" width="412" height="74" frameX="-39" frameY="-27" frameWidth="459" frameHeight="131"/>
+	<SubTexture name="MY BROTHER0034" x="0" y="205" width="412" height="74" frameX="-39" frameY="-27" frameWidth="459" frameHeight="131"/>
+	<SubTexture name="MY BROTHER0035" x="0" y="205" width="412" height="74" frameX="-39" frameY="-27" frameWidth="459" frameHeight="131"/>
+	<SubTexture name="MY BROTHER0036" x="412" y="205" width="412" height="74" frameX="-39" frameY="-27" frameWidth="459" frameHeight="131"/>
+	<SubTexture name="MY BROTHER0037" x="824" y="279" width="412" height="74" frameX="-39" frameY="-27" frameWidth="459" frameHeight="131"/>
+	<SubTexture name="MY BROTHER0038" x="1236" y="279" width="426" height="74" frameX="-33" frameY="-27" frameWidth="459" frameHeight="131"/>
+	<SubTexture name="MY BROTHER0039" x="0" y="353" width="412" height="14" frameX="-39" frameY="-75" frameWidth="459" frameHeight="131"/>
+	<SubTexture name="MY BROTHER0040" x="412" y="353" width="118" height="7" frameX="-189" frameY="-79" frameWidth="459" frameHeight="131"/>
+	<SubTexture name="MY BROTHER0041" x="530" y="353" width="16" height="5" frameX="-248" frameY="-79" frameWidth="459" frameHeight="131"/>
+	<SubTexture name="MY BROTHER0042" x="546" y="353" width="7" height="6" frameX="-252" frameY="-81" frameWidth="459" frameHeight="131"/>
+	<SubTexture name="MY BROTHER0043" x="553" y="353" width="0" height="0" frameX="-39" frameY="9" frameWidth="459" frameHeight="131"/>
+	<SubTexture name="BROTHERS IN ARMS0000" x="553" y="353" width="182" height="122" frameX="0" frameY="0" frameWidth="448" frameHeight="122"/>
+	<SubTexture name="BROTHERS IN ARMS0001" x="735" y="353" width="212" height="122" frameX="0" frameY="0" frameWidth="448" frameHeight="122"/>
+	<SubTexture name="BROTHERS IN ARMS0002" x="947" y="353" width="391" height="93" frameX="-21" frameY="-15" frameWidth="448" frameHeight="122"/>
+	<SubTexture name="BROTHERS IN ARMS0003" x="1338" y="353" width="415" height="93" frameX="-21" frameY="-15" frameWidth="448" frameHeight="122"/>
+	<SubTexture name="BROTHERS IN ARMS0004" x="0" y="475" width="408" height="76" frameX="-28" frameY="-23" frameWidth="448" frameHeight="122"/>
+	<SubTexture name="BROTHERS IN ARMS0005" x="408" y="475" width="412" height="76" frameX="-28" frameY="-23" frameWidth="448" frameHeight="122"/>
+	<SubTexture name="BROTHERS IN ARMS0006" x="820" y="475" width="412" height="78" frameX="-28" frameY="-22" frameWidth="448" frameHeight="122"/>
+	<SubTexture name="BROTHERS IN ARMS0007" x="820" y="475" width="412" height="78" frameX="-28" frameY="-22" frameWidth="448" frameHeight="122"/>
+	<SubTexture name="BROTHERS IN ARMS0008" x="1232" y="475" width="412" height="78" frameX="-28" frameY="-22" frameWidth="448" frameHeight="122"/>
+	<SubTexture name="BROTHERS IN ARMS0009" x="1232" y="475" width="412" height="78" frameX="-28" frameY="-22" frameWidth="448" frameHeight="122"/>
+	<SubTexture name="BROTHERS IN ARMS0010" x="0" y="553" width="412" height="78" frameX="-28" frameY="-22" frameWidth="448" frameHeight="122"/>
+	<SubTexture name="BROTHERS IN ARMS0011" x="0" y="553" width="412" height="78" frameX="-28" frameY="-22" frameWidth="448" frameHeight="122"/>
+	<SubTexture name="BROTHERS IN ARMS0012" x="412" y="553" width="412" height="78" frameX="-28" frameY="-22" frameWidth="448" frameHeight="122"/>
+	<SubTexture name="BROTHERS IN ARMS0013" x="412" y="553" width="412" height="78" frameX="-28" frameY="-22" frameWidth="448" frameHeight="122"/>
+	<SubTexture name="BROTHERS IN ARMS0014" x="824" y="553" width="412" height="78" frameX="-28" frameY="-22" frameWidth="448" frameHeight="122"/>
+	<SubTexture name="BROTHERS IN ARMS0015" x="824" y="553" width="412" height="78" frameX="-28" frameY="-22" frameWidth="448" frameHeight="122"/>
+	<SubTexture name="BROTHERS IN ARMS0016" x="1236" y="553" width="412" height="78" frameX="-28" frameY="-22" frameWidth="448" frameHeight="122"/>
+	<SubTexture name="BROTHERS IN ARMS0017" x="1236" y="553" width="412" height="78" frameX="-28" frameY="-22" frameWidth="448" frameHeight="122"/>
+	<SubTexture name="BROTHERS IN ARMS0018" x="0" y="631" width="412" height="78" frameX="-28" frameY="-22" frameWidth="448" frameHeight="122"/>
+	<SubTexture name="BROTHERS IN ARMS0019" x="0" y="631" width="412" height="78" frameX="-28" frameY="-22" frameWidth="448" frameHeight="122"/>
+	<SubTexture name="BROTHERS IN ARMS0020" x="412" y="631" width="412" height="78" frameX="-28" frameY="-22" frameWidth="448" frameHeight="122"/>
+	<SubTexture name="BROTHERS IN ARMS0021" x="412" y="631" width="412" height="78" frameX="-28" frameY="-22" frameWidth="448" frameHeight="122"/>
+	<SubTexture name="BROTHERS IN ARMS0022" x="824" y="631" width="412" height="78" frameX="-28" frameY="-22" frameWidth="448" frameHeight="122"/>
+	<SubTexture name="BROTHERS IN ARMS0023" x="824" y="631" width="412" height="78" frameX="-28" frameY="-22" frameWidth="448" frameHeight="122"/>
+	<SubTexture name="BROTHERS IN ARMS0024" x="1236" y="631" width="412" height="78" frameX="-28" frameY="-22" frameWidth="448" frameHeight="122"/>
+	<SubTexture name="BROTHERS IN ARMS0025" x="1236" y="631" width="412" height="78" frameX="-28" frameY="-22" frameWidth="448" frameHeight="122"/>
+	<SubTexture name="BROTHERS IN ARMS0026" x="820" y="475" width="412" height="78" frameX="-28" frameY="-22" frameWidth="448" frameHeight="122"/>
+	<SubTexture name="BROTHERS IN ARMS0027" x="820" y="475" width="412" height="78" frameX="-28" frameY="-22" frameWidth="448" frameHeight="122"/>
+	<SubTexture name="BROTHERS IN ARMS0028" x="1232" y="475" width="412" height="78" frameX="-28" frameY="-22" frameWidth="448" frameHeight="122"/>
+	<SubTexture name="BROTHERS IN ARMS0029" x="1232" y="475" width="412" height="78" frameX="-28" frameY="-22" frameWidth="448" frameHeight="122"/>
+	<SubTexture name="BROTHERS IN ARMS0030" x="0" y="553" width="412" height="78" frameX="-28" frameY="-22" frameWidth="448" frameHeight="122"/>
+	<SubTexture name="BROTHERS IN ARMS0031" x="0" y="553" width="412" height="78" frameX="-28" frameY="-22" frameWidth="448" frameHeight="122"/>
+	<SubTexture name="BROTHERS IN ARMS0032" x="412" y="553" width="412" height="78" frameX="-28" frameY="-22" frameWidth="448" frameHeight="122"/>
+	<SubTexture name="BROTHERS IN ARMS0033" x="412" y="553" width="412" height="78" frameX="-28" frameY="-22" frameWidth="448" frameHeight="122"/>
+	<SubTexture name="BROTHERS IN ARMS0034" x="824" y="553" width="412" height="78" frameX="-28" frameY="-22" frameWidth="448" frameHeight="122"/>
+	<SubTexture name="BROTHERS IN ARMS0035" x="824" y="553" width="412" height="78" frameX="-28" frameY="-22" frameWidth="448" frameHeight="122"/>
+	<SubTexture name="BROTHERS IN ARMS0036" x="1236" y="553" width="412" height="78" frameX="-28" frameY="-22" frameWidth="448" frameHeight="122"/>
+	<SubTexture name="BROTHERS IN ARMS0037" x="0" y="709" width="412" height="78" frameX="-28" frameY="-22" frameWidth="448" frameHeight="122"/>
+	<SubTexture name="BROTHERS IN ARMS0038" x="412" y="709" width="426" height="78" frameX="-22" frameY="-22" frameWidth="448" frameHeight="122"/>
+	<SubTexture name="BROTHERS IN ARMS0039" x="838" y="709" width="412" height="14" frameX="-28" frameY="-73" frameWidth="448" frameHeight="122"/>
+	<SubTexture name="BROTHERS IN ARMS0040" x="412" y="353" width="118" height="7" frameX="-178" frameY="-77" frameWidth="459" frameHeight="131"/>
+	<SubTexture name="BROTHERS IN ARMS0041" x="530" y="353" width="16" height="5" frameX="-237" frameY="-77" frameWidth="459" frameHeight="131"/>
+	<SubTexture name="BROTHERS IN ARMS0042" x="546" y="353" width="7" height="6" frameX="-241" frameY="-79" frameWidth="459" frameHeight="131"/>
+	<SubTexture name="BROTHERS IN ARMS0043" x="1250" y="709" width="0" height="0" frameX="-28" frameY="11" frameWidth="448" frameHeight="122"/>
+	<SubTexture name="QUIET0000" x="1250" y="709" width="133" height="142" frameX="-10" frameY="0" frameWidth="431" frameHeight="142"/>
+	<SubTexture name="QUIET0001" x="1383" y="709" width="195" height="142" frameX="0" frameY="0" frameWidth="431" frameHeight="142"/>
+	<SubTexture name="QUIET0002" x="1578" y="709" width="384" height="129" frameX="-11" frameY="-6" frameWidth="431" frameHeight="142"/>
+	<SubTexture name="QUIET0003" x="0" y="851" width="408" height="129" frameX="-11" frameY="-6" frameWidth="431" frameHeight="142"/>
+	<SubTexture name="QUIET0004" x="408" y="851" width="408" height="93" frameX="-11" frameY="-24" frameWidth="431" frameHeight="142"/>
+	<SubTexture name="QUIET0005" x="816" y="851" width="412" height="93" frameX="-11" frameY="-24" frameWidth="431" frameHeight="142"/>
+	<SubTexture name="QUIET0006" x="1228" y="851" width="412" height="95" frameX="-11" frameY="-23" frameWidth="431" frameHeight="142"/>
+	<SubTexture name="QUIET0007" x="1228" y="851" width="412" height="95" frameX="-11" frameY="-23" frameWidth="431" frameHeight="142"/>
+	<SubTexture name="QUIET0008" x="0" y="980" width="412" height="95" frameX="-11" frameY="-23" frameWidth="431" frameHeight="142"/>
+	<SubTexture name="QUIET0009" x="0" y="980" width="412" height="95" frameX="-11" frameY="-23" frameWidth="431" frameHeight="142"/>
+	<SubTexture name="QUIET0010" x="412" y="980" width="412" height="95" frameX="-11" frameY="-23" frameWidth="431" frameHeight="142"/>
+	<SubTexture name="QUIET0011" x="412" y="980" width="412" height="95" frameX="-11" frameY="-23" frameWidth="431" frameHeight="142"/>
+	<SubTexture name="QUIET0012" x="824" y="980" width="412" height="95" frameX="-11" frameY="-23" frameWidth="431" frameHeight="142"/>
+	<SubTexture name="QUIET0013" x="824" y="980" width="412" height="95" frameX="-11" frameY="-23" frameWidth="431" frameHeight="142"/>
+	<SubTexture name="QUIET0014" x="1236" y="980" width="412" height="95" frameX="-11" frameY="-23" frameWidth="431" frameHeight="142"/>
+	<SubTexture name="QUIET0015" x="1236" y="980" width="412" height="95" frameX="-11" frameY="-23" frameWidth="431" frameHeight="142"/>
+	<SubTexture name="QUIET0016" x="0" y="1075" width="412" height="95" frameX="-11" frameY="-23" frameWidth="431" frameHeight="142"/>
+	<SubTexture name="QUIET0017" x="0" y="1075" width="412" height="95" frameX="-11" frameY="-23" frameWidth="431" frameHeight="142"/>
+	<SubTexture name="QUIET0018" x="412" y="1075" width="412" height="95" frameX="-11" frameY="-23" frameWidth="431" frameHeight="142"/>
+	<SubTexture name="QUIET0019" x="412" y="1075" width="412" height="95" frameX="-11" frameY="-23" frameWidth="431" frameHeight="142"/>
+	<SubTexture name="QUIET0020" x="824" y="1075" width="412" height="95" frameX="-11" frameY="-23" frameWidth="431" frameHeight="142"/>
+	<SubTexture name="QUIET0021" x="824" y="1075" width="412" height="95" frameX="-11" frameY="-23" frameWidth="431" frameHeight="142"/>
+	<SubTexture name="QUIET0022" x="1236" y="1075" width="412" height="95" frameX="-11" frameY="-23" frameWidth="431" frameHeight="142"/>
+	<SubTexture name="QUIET0023" x="1236" y="1075" width="412" height="95" frameX="-11" frameY="-23" frameWidth="431" frameHeight="142"/>
+	<SubTexture name="QUIET0024" x="0" y="1170" width="412" height="95" frameX="-11" frameY="-23" frameWidth="431" frameHeight="142"/>
+	<SubTexture name="QUIET0025" x="0" y="1170" width="412" height="95" frameX="-11" frameY="-23" frameWidth="431" frameHeight="142"/>
+	<SubTexture name="QUIET0026" x="1228" y="851" width="412" height="95" frameX="-11" frameY="-23" frameWidth="431" frameHeight="142"/>
+	<SubTexture name="QUIET0027" x="1228" y="851" width="412" height="95" frameX="-11" frameY="-23" frameWidth="431" frameHeight="142"/>
+	<SubTexture name="QUIET0028" x="0" y="980" width="412" height="95" frameX="-11" frameY="-23" frameWidth="431" frameHeight="142"/>
+	<SubTexture name="QUIET0029" x="0" y="980" width="412" height="95" frameX="-11" frameY="-23" frameWidth="431" frameHeight="142"/>
+	<SubTexture name="QUIET0030" x="412" y="980" width="412" height="95" frameX="-11" frameY="-23" frameWidth="431" frameHeight="142"/>
+	<SubTexture name="QUIET0031" x="412" y="980" width="412" height="95" frameX="-11" frameY="-23" frameWidth="431" frameHeight="142"/>
+	<SubTexture name="QUIET0032" x="824" y="980" width="412" height="95" frameX="-11" frameY="-23" frameWidth="431" frameHeight="142"/>
+	<SubTexture name="QUIET0033" x="824" y="980" width="412" height="95" frameX="-11" frameY="-23" frameWidth="431" frameHeight="142"/>
+	<SubTexture name="QUIET0034" x="1236" y="980" width="412" height="95" frameX="-11" frameY="-23" frameWidth="431" frameHeight="142"/>
+	<SubTexture name="QUIET0035" x="1236" y="980" width="412" height="95" frameX="-11" frameY="-23" frameWidth="431" frameHeight="142"/>
+	<SubTexture name="QUIET0036" x="0" y="1075" width="412" height="95" frameX="-11" frameY="-23" frameWidth="431" frameHeight="142"/>
+	<SubTexture name="QUIET0037" x="412" y="1170" width="412" height="95" frameX="-11" frameY="-23" frameWidth="431" frameHeight="142"/>
+	<SubTexture name="QUIET0038" x="824" y="1170" width="426" height="95" frameX="-5" frameY="-23" frameWidth="431" frameHeight="142"/>
+	<SubTexture name="QUIET0039" x="1250" y="1170" width="412" height="17" frameX="-11" frameY="-87" frameWidth="431" frameHeight="142"/>
+	<SubTexture name="QUIET0040" x="412" y="353" width="118" height="7" frameX="-161" frameY="-94" frameWidth="459" frameHeight="131"/>
+	<SubTexture name="QUIET0041" x="530" y="353" width="16" height="5" frameX="-220" frameY="-94" frameWidth="459" frameHeight="131"/>
+	<SubTexture name="QUIET0042" x="546" y="353" width="7" height="6" frameX="-224" frameY="-96" frameWidth="459" frameHeight="131"/>
+	<SubTexture name="QUIET0043" x="1662" y="1170" width="0" height="0" frameX="-11" frameY="-6" frameWidth="431" frameHeight="142"/>
+	<SubTexture name="QUIET RETRO0000" x="1250" y="709" width="133" height="142" frameX="-18" frameY="0" frameWidth="431" frameHeight="142"/>
+	<SubTexture name="QUIET RETRO0001" x="1662" y="1170" width="203" height="142" frameX="0" frameY="0" frameWidth="439" frameHeight="142"/>
+	<SubTexture name="QUIET RETRO0002" x="0" y="1312" width="384" height="129" frameX="-19" frameY="-6" frameWidth="439" frameHeight="142"/>
+	<SubTexture name="QUIET RETRO0003" x="384" y="1312" width="408" height="129" frameX="-19" frameY="-6" frameWidth="439" frameHeight="142"/>
+	<SubTexture name="QUIET RETRO0004" x="792" y="1312" width="408" height="93" frameX="-19" frameY="-24" frameWidth="439" frameHeight="142"/>
+	<SubTexture name="QUIET RETRO0005" x="1200" y="1312" width="412" height="93" frameX="-19" frameY="-24" frameWidth="439" frameHeight="142"/>
+	<SubTexture name="QUIET RETRO0006" x="1612" y="1312" width="412" height="95" frameX="-19" frameY="-23" frameWidth="439" frameHeight="142"/>
+	<SubTexture name="QUIET RETRO0007" x="1612" y="1312" width="412" height="95" frameX="-19" frameY="-23" frameWidth="439" frameHeight="142"/>
+	<SubTexture name="QUIET RETRO0008" x="0" y="1441" width="412" height="95" frameX="-19" frameY="-23" frameWidth="439" frameHeight="142"/>
+	<SubTexture name="QUIET RETRO0009" x="0" y="1441" width="412" height="95" frameX="-19" frameY="-23" frameWidth="439" frameHeight="142"/>
+	<SubTexture name="QUIET RETRO0010" x="412" y="1441" width="412" height="95" frameX="-19" frameY="-23" frameWidth="439" frameHeight="142"/>
+	<SubTexture name="QUIET RETRO0011" x="412" y="1441" width="412" height="95" frameX="-19" frameY="-23" frameWidth="439" frameHeight="142"/>
+	<SubTexture name="QUIET RETRO0012" x="824" y="1441" width="412" height="95" frameX="-19" frameY="-23" frameWidth="439" frameHeight="142"/>
+	<SubTexture name="QUIET RETRO0013" x="824" y="1441" width="412" height="95" frameX="-19" frameY="-23" frameWidth="439" frameHeight="142"/>
+	<SubTexture name="QUIET RETRO0014" x="1236" y="1441" width="412" height="95" frameX="-19" frameY="-23" frameWidth="439" frameHeight="142"/>
+	<SubTexture name="QUIET RETRO0015" x="1236" y="1441" width="412" height="95" frameX="-19" frameY="-23" frameWidth="439" frameHeight="142"/>
+	<SubTexture name="QUIET RETRO0016" x="0" y="1536" width="412" height="95" frameX="-19" frameY="-23" frameWidth="439" frameHeight="142"/>
+	<SubTexture name="QUIET RETRO0017" x="0" y="1536" width="412" height="95" frameX="-19" frameY="-23" frameWidth="439" frameHeight="142"/>
+	<SubTexture name="QUIET RETRO0018" x="412" y="1536" width="412" height="95" frameX="-19" frameY="-23" frameWidth="439" frameHeight="142"/>
+	<SubTexture name="QUIET RETRO0019" x="412" y="1536" width="412" height="95" frameX="-19" frameY="-23" frameWidth="439" frameHeight="142"/>
+	<SubTexture name="QUIET RETRO0020" x="824" y="1536" width="412" height="95" frameX="-19" frameY="-23" frameWidth="439" frameHeight="142"/>
+	<SubTexture name="QUIET RETRO0021" x="824" y="1536" width="412" height="95" frameX="-19" frameY="-23" frameWidth="439" frameHeight="142"/>
+	<SubTexture name="QUIET RETRO0022" x="1236" y="1536" width="412" height="95" frameX="-19" frameY="-23" frameWidth="439" frameHeight="142"/>
+	<SubTexture name="QUIET RETRO0023" x="1236" y="1536" width="412" height="95" frameX="-19" frameY="-23" frameWidth="439" frameHeight="142"/>
+	<SubTexture name="QUIET RETRO0024" x="0" y="1631" width="412" height="95" frameX="-19" frameY="-23" frameWidth="439" frameHeight="142"/>
+	<SubTexture name="QUIET RETRO0025" x="0" y="1631" width="412" height="95" frameX="-19" frameY="-23" frameWidth="439" frameHeight="142"/>
+	<SubTexture name="QUIET RETRO0026" x="1612" y="1312" width="412" height="95" frameX="-19" frameY="-23" frameWidth="439" frameHeight="142"/>
+	<SubTexture name="QUIET RETRO0027" x="1612" y="1312" width="412" height="95" frameX="-19" frameY="-23" frameWidth="439" frameHeight="142"/>
+	<SubTexture name="QUIET RETRO0028" x="0" y="1441" width="412" height="95" frameX="-19" frameY="-23" frameWidth="439" frameHeight="142"/>
+	<SubTexture name="QUIET RETRO0029" x="0" y="1441" width="412" height="95" frameX="-19" frameY="-23" frameWidth="439" frameHeight="142"/>
+	<SubTexture name="QUIET RETRO0030" x="412" y="1441" width="412" height="95" frameX="-19" frameY="-23" frameWidth="439" frameHeight="142"/>
+	<SubTexture name="QUIET RETRO0031" x="412" y="1441" width="412" height="95" frameX="-19" frameY="-23" frameWidth="439" frameHeight="142"/>
+	<SubTexture name="QUIET RETRO0032" x="824" y="1441" width="412" height="95" frameX="-19" frameY="-23" frameWidth="439" frameHeight="142"/>
+	<SubTexture name="QUIET RETRO0033" x="824" y="1441" width="412" height="95" frameX="-19" frameY="-23" frameWidth="439" frameHeight="142"/>
+	<SubTexture name="QUIET RETRO0034" x="1236" y="1441" width="412" height="95" frameX="-19" frameY="-23" frameWidth="439" frameHeight="142"/>
+	<SubTexture name="QUIET RETRO0035" x="1236" y="1441" width="412" height="95" frameX="-19" frameY="-23" frameWidth="439" frameHeight="142"/>
+	<SubTexture name="QUIET RETRO0036" x="0" y="1536" width="412" height="95" frameX="-19" frameY="-23" frameWidth="439" frameHeight="142"/>
+	<SubTexture name="QUIET RETRO0037" x="412" y="1631" width="412" height="95" frameX="-19" frameY="-23" frameWidth="439" frameHeight="142"/>
+	<SubTexture name="QUIET RETRO0038" x="824" y="1631" width="426" height="95" frameX="-13" frameY="-23" frameWidth="439" frameHeight="142"/>
+	<SubTexture name="QUIET RETRO0039" x="1250" y="1170" width="412" height="17" frameX="-19" frameY="-87" frameWidth="431" frameHeight="142"/>
+	<SubTexture name="QUIET RETRO0040" x="412" y="353" width="118" height="7" frameX="-169" frameY="-94" frameWidth="459" frameHeight="131"/>
+	<SubTexture name="QUIET RETRO0041" x="530" y="353" width="16" height="5" frameX="-228" frameY="-94" frameWidth="459" frameHeight="131"/>
+	<SubTexture name="QUIET RETRO0042" x="546" y="353" width="7" height="6" frameX="-232" frameY="-96" frameWidth="459" frameHeight="131"/>
+	<SubTexture name="QUIET RETRO0043" x="1250" y="1631" width="0" height="0" frameX="-19" frameY="-6" frameWidth="439" frameHeight="142"/>
+</TextureAtlas>
