@@ -176,10 +176,7 @@ class FreeplayState extends MusicBeatState
 		add(textBG);
 
 		#if PRELOAD_ALL
-		var leText:String = "Press SPACE / X to listen to the Song / Press CTRL / C to open the Gameplay Changers Menu / Press RESET / Y to Reset your Score and Accuracy.";
-		var size:Int = 16;
-		#else
-		var leText:String = "Press CTRL / C to open the Gameplay Changers Menu / Press RESET / Y to Reset your Score and Accuracy.";
+		var leText:String = "Press the C button to be able to change the controls.";
 		var size:Int = 18;
 		#end
 		var text:FlxText = new FlxText(textBG.x, textBG.y + 4, FlxG.width, leText, size);
@@ -188,7 +185,7 @@ class FreeplayState extends MusicBeatState
 		add(text);
 
                 #if android
-		addVirtualPad(FULL, A_B_C_X_Y);
+		addVirtualPad(FULL, A_B_C);
 		#end
 
 		super.create();
