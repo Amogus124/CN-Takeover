@@ -4,6 +4,7 @@
 	"hideFreeplay": false,
 	"weekBackground": "jake&finn",
 	"weekBefore": "tutorial",
+    "difficulties": "Normal",
 	"freeplayColor": [
 		146,
 		113,
